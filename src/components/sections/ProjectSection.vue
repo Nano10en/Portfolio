@@ -92,9 +92,9 @@
                         images: [
                             { src: '/src/project_img/spotify_album_rating/main.png', alt: 'Main page' },
                             { src: '/src/project_img/spotify_album_rating/search.png', alt: 'Search page' },
-                            { src: '', alt: 'Image 3 — coming soon' },
-                            { src: '', alt: 'Image 4 — coming soon' },
-                            { src: '', alt: 'Image 5 — coming soon' },
+                            { src: '/src/project_img/spotify_album_rating/album.png', alt: 'Album page' },
+                            { src: '/src/project_img/spotify_album_rating/trackComment.png', alt: 'Track comment' },
+                            { src: '/src/project_img/spotify_album_rating/albumComment.png', alt: 'Album comment' },
                         ]
                     },
                     {
@@ -104,11 +104,11 @@
                         tags: ['PHP', 'Laravel', 'MySQL', 'Blade', 'Vite'],
                         link: 'https://github.com/Nano10en/Inventory-Sytem',
                         images: [
-                            { src: '', alt: 'Image 1 — coming soon' },
-                            { src: '', alt: 'Image 2 — coming soon' },
-                            { src: '', alt: 'Image 3 — coming soon' },
-                            { src: '', alt: 'Image 4 — coming soon' },
-                            { src: '', alt: 'Image 5 — coming soon' },
+                            { src: '/src/project_img/inventory_system/inventoryMain.png', alt: 'Main page' },
+                            { src: '/src/project_img/inventory_system/inventoryList.png', alt: 'List page' },
+                            { src: '/src/project_img/inventory_system/inventoryFilter.png', alt: 'Filter' },
+                            { src: '/src/project_img/inventory_system/inventoryChange.png', alt: 'Change page' },
+                            { src: '/src/project_img/inventory_system/inventoryAdd.png', alt: 'Add page' },
                         ]
                     },
                     {
@@ -118,11 +118,11 @@
                         tags: ['Vue 3', 'Vue Router', 'SCSS', 'Webpack', 'JavaScript'],
                         link: 'https://github.com/Nano10en/Workout',
                         images: [
-                            { src: '', alt: 'Image 1 — coming soon' },
-                            { src: '', alt: 'Image 2 — coming soon' },
-                            { src: '', alt: 'Image 3 — coming soon' },
-                            { src: '', alt: 'Image 4 — coming soon' },
-                            { src: '', alt: 'Image 5 — coming soon' },
+                            { src: '/src/project_img/workout/workoutMain.png', alt: 'Main page' },
+                            { src: '/src/project_img/workout/workoutTranings.png', alt: 'Tranings section' },
+                            { src: '/src/project_img/workout/workoutSpecials.png', alt: 'Specials section' },
+                            { src: '/src/project_img/workout/workoutPrices.png', alt: 'Prices page' },
+                            { src: '/src/project_img/workout/workoutWorking.png', alt: 'Working section' },
                         ]
                     },
                 ],
