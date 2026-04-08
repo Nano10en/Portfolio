@@ -90,11 +90,11 @@
                         tags: ['Python', 'Django', 'Spotify API', 'OAuth 2.0', 'SQLite'],
                         link: 'https://github.com/Nano10en/spotify-album-rating',
                         images: [
-                            { src: '/public/project_img/spotify_album_rating/main.png', alt: 'Main page' },
-                            { src: '/public/project_img/spotify_album_rating/search.png', alt: 'Search page' },
-                            { src: '/public/project_img/spotify_album_rating/album.png', alt: 'Album page' },
-                            { src: '/public/project_img/spotify_album_rating/trackComment.png', alt: 'Track comment' },
-                            { src: '/public/project_img/spotify_album_rating/albumComment.png', alt: 'Album comment' },
+                            { src: 'project_img/spotify_album_rating/main.png', alt: 'Main page' },
+                            { src: 'project_img/spotify_album_rating/search.png', alt: 'Search page' },
+                            { src: 'project_img/spotify_album_rating/album.png', alt: 'Album page' },
+                            { src: 'project_img/spotify_album_rating/trackComment.png', alt: 'Track comment' },
+                            { src: 'project_img/spotify_album_rating/albumComment.png', alt: 'Album comment' },
                         ]
                     },
                     {
@@ -104,11 +104,11 @@
                         tags: ['PHP', 'Laravel', 'MySQL', 'Blade', 'Vite'],
                         link: 'https://github.com/Nano10en/Inventory-Sytem',
                         images: [
-                            { src: '/public/project_img/inventory_system/inventoryMain.png', alt: 'Main page' },
-                            { src: '/public/project_img/inventory_system/inventoryList.png', alt: 'List page' },
-                            { src: '/public/project_img/inventory_system/inventoryFilter.png', alt: 'Filter' },
-                            { src: '/public/project_img/inventory_system/inventoryChange.png', alt: 'Change page' },
-                            { src: '/public/project_img/inventory_system/inventoryAdd.png', alt: 'Add page' },
+                            { src: 'project_img/inventory_system/inventoryMain.png', alt: 'Main page' },
+                            { src: 'project_img/inventory_system/inventoryList.png', alt: 'List page' },
+                            { src: 'project_img/inventory_system/inventoryFilter.png', alt: 'Filter' },
+                            { src: 'project_img/inventory_system/inventoryChange.png', alt: 'Change page' },
+                            { src: 'project_img/inventory_system/inventoryAdd.png', alt: 'Add page' },
                         ]
                     },
                     {
@@ -118,11 +118,11 @@
                         tags: ['Vue 3', 'Vue Router', 'SCSS', 'Webpack', 'JavaScript'],
                         link: 'https://github.com/Nano10en/Workout',
                         images: [
-                            { src: '/public/project_img/workout/workoutMain.png', alt: 'Main page' },
-                            { src: '/public/project_img/workout/workoutTranings.png', alt: 'Tranings section' },
-                            { src: '/public/project_img/workout/workoutSpecials.png', alt: 'Specials section' },
-                            { src: '/public/project_img/workout/workoutPrices.png', alt: 'Prices page' },
-                            { src: '/public/project_img/workout/workoutWorking.png', alt: 'Working section' },
+                            { src: 'project_img/workout/workoutMain.png', alt: 'Main page' },
+                            { src: 'project_img/workout/workoutTranings.png', alt: 'Tranings section' },
+                            { src: 'project_img/workout/workoutSpecials.png', alt: 'Specials section' },
+                            { src: 'project_img/workout/workoutPrices.png', alt: 'Prices page' },
+                            { src: 'project_img/workout/workoutWorking.png', alt: 'Working section' },
                         ]
                     },
                 ],
