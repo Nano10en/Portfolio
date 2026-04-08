@@ -1,0 +1,40 @@
+// Colors
+$color-bg: #0a0a0a;
+$color-surface: #111111;
+$color-primary: #6366f1;
+$color-primary-light: #818cf8;
+$color-text: #f1f5f9;
+$color-text-muted: #94a3b8;
+$color-border: #1e293b;
+
+// Typography
+$font-main: 'Inter', sans-serif;
+$font-mono: 'JetBrains Mono', monospace;
+
+$fs-xs: 0.75rem;
+$fs-sm: 0.875rem;
+$fs-base: 1rem;
+$fs-lg: 1.125rem;
+$fs-xl: 1.25rem;
+$fs-2xl: 1.5rem;
+$fs-3xl: 2rem;
+$fs-4xl: 3rem;
+$fs-5xl: 4rem;
+
+// Spacing
+$space-xs: 0.5rem;
+$space-sm: 1rem;
+$space-md: 2rem;
+$space-lg: 4rem;
+$space-xl: 8rem;
+
+// Breakpoints
+$bp-sm: 640px;
+$bp-md: 768px;
+$bp-lg: 1024px;
+$bp-xl: 1280px;
+
+// Transitions
+$transition-fast: 0.2s ease;
+$transition-base: 0.4s ease;
+$transition-slow: 0.8s ease;

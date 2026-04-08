@@ -1,0 +1,20 @@
+@use 'variables' as *;
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h1 { font-size: $fs-5xl; }
+h2 { font-size: $fs-3xl; }
+h3 { font-size: $fs-2xl; }
+h4 { font-size: $fs-xl; }
+
+p {
+  font-size: $fs-base;
+  color: $color-text-muted;
+}
+
+.text-primary { color: $color-primary; }
+.text-muted   { color: $color-text-muted; }
+.text-mono    { font-family: $font-mono; }
