@@ -2,7 +2,7 @@
 
 Personal portfolio website built with Vue 3 and Vite. Showcases my projects, tech stack, and contact information.
 
-**Live:** [nikita-velicko.dev](https://nikita-velicko.dev) *(update with your actual URL)*
+**Live:** [nikitavelicko.com](https://www.nikitavelicko.com/)
 
 ---
 
